@@ -48,6 +48,6 @@ def posts_delete(request, id_num):
 
 def posts_home(request):
     context = {
-        'title':'fuck',
+        'title':'new title',
         }
     return render(request,'index.html',context)
