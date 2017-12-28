@@ -25,7 +25,7 @@ SECRET_KEY = 'j0#09=o)fkp)zq4*+d&t7!pqgvj$l7m@i_f!q_2%%=#ner8wjo'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['floating-sea-53721.herokuapp.com']
 
 
 # Application definition
